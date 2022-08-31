@@ -1,0 +1,6 @@
+apiVersion: v2
+name: quarkus-helm-chart
+description: Helm char for the Hello, WOrld quarkus demo
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
